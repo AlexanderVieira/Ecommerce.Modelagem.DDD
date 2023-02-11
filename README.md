@@ -38,7 +38,7 @@
 
 **Documentação**
 
-- <a href="https://github.com/AlexanderVieira/Ecommerce.Modelagem.DDD/blob/master/docs/apresentacao.md">Projeto</a>
+- <a href="https://github.com/AlexanderVieira/Ecommerce.Modelagem.DDD/blob/master/docs/projeto_bloco.pdf">Projeto</a>
 
 ## Cenário atual
 
@@ -88,7 +88,7 @@ BereauCredito/
 ```
 
 ## Erros e solicitações de recursos
-Tem um bug ou uma solicitação de recurso? Leia primeiro as [diretrizes do problema](https://reponame/blob/master/CONTRIBUTING.md)  e pesquise os problemas existentes e encerrados. [abra um novo problema](https://github.com/AlexanderVieira/BereauCredito/issues).
+Tem um bug ou uma solicitação de recurso? Leia primeiro as [diretrizes do problema](https://reponame/blob/master/CONTRIBUTING.md)  e pesquise os problemas existentes e encerrados. [abra um novo problema](https://github.com/AlexanderVieira/Ecommerce.Modelagem.DDD/issues).
 
 ## Contribuição
 
@@ -106,4 +106,4 @@ Obrigado por consultar, divulgar ou contribuir.
 
 ## Direitos e licença
 
-Código e documentação com copyright 2021 dos autores. Código divulgado sob a [MIT License](https://github.com/AlexanderVieira/BereauCredito/blob/develop/LICENSE).
+Código e documentação com copyright 2021 dos autores. Código divulgado sob a [MIT License](https://github.com/AlexanderVieira/Ecommerce.Modelagem.DDD/blob/master/LICENSE).
